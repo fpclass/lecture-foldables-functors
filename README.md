@@ -1,2 +1,3 @@
-# lecture19
-Code shown in the 19th lecture.
+# Lecture: Foldables
+
+Code shown in the lecture on foldables.
