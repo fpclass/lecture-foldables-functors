@@ -1,3 +1,3 @@
-# Lecture: Foldables
+# Lecture: Foldables & Functors
 
-Code shown in the lecture on foldables.
+Code shown in the lecture on foldables and functors.
